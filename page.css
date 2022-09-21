@@ -1,36 +1,38 @@
 #comput {
     color: rgb(204, 190, 169);
-    background-color: rgb(3, 3, 41);
+    background-color: rgb(3, 3, 20);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 70px;
+    font-size: 100px;
     
     
 }
 
-#love{ color:rgb(3, 3, 41);
+#love{ color:rgb(3, 3, 20);
     background-color:rgb(204, 190, 169);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
-    font-size: 70px;  }
+    font-size: 100px;  }
 
 #menu {
-    font-size: 50px;
+    font-size: 70px;
     }
 
 li {
     display: inline;
-    font-size: 20px; 
+    font-size: 40px;
+    padding: 110px; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
       
 }
 h1 { display: inline;
-    
-    }
+        }
     
 
 
-body{ background-color:rgb(3, 3, 41) ;
+body{ background-color:rgb(3, 3, 20) ;
     color:rgb(204, 190, 169);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 20px;
+    font-size: 30px;
     }
 #txt {column-count: 2;
-text-align: left;}
+text-align: left;
+}
