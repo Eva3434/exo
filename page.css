@@ -1,11 +1,36 @@
 #comput {
     color: rgb(204, 190, 169);
     background-color: rgb(3, 3, 41);
-    height: 70 px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 70px;
+    
+    
 }
 
 #love{ color:rgb(3, 3, 41);
     background-color:rgb(204, 190, 169);
-height: 100 px;}
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: 70px;  }
+
+#menu {
+    font-size: 50px;
+    }
+
+li {
+    display: inline;
+    font-size: 20px; 
+      
+}
+h1 { display: inline;
+    
+    }
+    
+
+
 body{ background-color:rgb(3, 3, 41) ;
-    color:rgb(204, 190, 169)}
+    color:rgb(204, 190, 169);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    }
+#txt {column-count: 2;
+text-align: left;}
